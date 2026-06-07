@@ -2,8 +2,8 @@
 
 # Hi!, I'm Nitin Kumar
 
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-JavaScript%20%7C%20Python-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+(https://img.shields.io/badge/Currently%20Learning-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
 [![Location](https://img.shields.io/badge/Location-Bihar%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
