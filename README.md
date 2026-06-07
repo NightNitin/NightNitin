@@ -15,7 +15,7 @@
 <p align="center" style="margin-top:12px;">
   <img 
     alt="Currently Learning" 
-    src="https://img.shields.io/badge/Currently%20Learning-JavaScript%20|%20Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    src="https://img.shields.io/badge/Currently%20Learning-Rust%20|%20Java-000000?style=for-the-badge&logo=rust&logoColor=white" 
   />
 </p>
 
