@@ -3,13 +3,10 @@
 # Hi!, I'm Nitin Kumar
 
 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-(https://img.shields.io/badge/Currently%20Learning-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![Location](https://img.shields.io/badge/Location-Bihar%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinkumar11402@gmail.com)
 
 </div>
 
